@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Lietuva2020.aternos.me",
+    "port": 32731,
     "version": "",
     "try-creative": false
   },
